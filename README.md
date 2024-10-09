@@ -62,13 +62,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://imgflip.com/i/963fty"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img height="400" src="https://i.imgflip.com/963fty.jpg"  />
 </div>
 
 ###
