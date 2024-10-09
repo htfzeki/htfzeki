@@ -6,7 +6,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=htfzeki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=htfzeki&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
@@ -58,5 +58,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/htfzeki/htfzeki/output/snake.svg" alt="Snake animation" />
 
 ###
