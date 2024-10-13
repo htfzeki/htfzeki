@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">I am Ien Hezekiah Monteser, a graduate of Southern Luzon State University with a degree in BS Computer Engineering. I'm currently learning front-end web development.</h4>
+<h4 align="center">I am Ien Hezekiah Monteser, a graduate of Southern Luzon State University with a degree in BS Computer Engineering. I'm currently learning front-end web development and cybersecurity.</h4>
 
 ###
 
