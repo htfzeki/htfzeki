@@ -43,7 +43,7 @@
 
 ###
 
-<h3 align="center">Social Medea</h3>
+<h3 align="center">Social Media</h3>
 
 ###
 
