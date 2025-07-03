@@ -2,14 +2,12 @@
 
 ###
 
-<h4 align="center">I am Ien Hezekiah Monteser, a graduate of Southern Luzon State University with a degree in BS Computer Engineering. I'm currently working at FusionNode.</h4>
+<h4 align="center">I am Ien Hezekiah Monteser, a graduate of Southern Luzon State University with a degree in BS Computer Engineering. I'm currently working as Cybersecurity Associate at Hypernet.</h4>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=htfzeki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=htfzeki&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 ###
 
