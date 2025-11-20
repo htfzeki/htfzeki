@@ -63,6 +63,3 @@
   <a href="https://tryhackme.com/p/mkzhm">
     <img src="https://tryhackme-badges.s3.amazonaws.com/mkzhm.png" alt="TryHackMe Badge" />
   </a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=htfzeki&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-</div>
