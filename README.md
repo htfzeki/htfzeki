@@ -1,71 +1,45 @@
-<h1 align="center">Hi 👋, I'm Ien Hezekiah Monteser</h1>
-
-###
-
-<h4 align="center">I am Ien Hezekiah Monteser, a graduate of Southern Luzon State University with a degree in BS Computer Engineering. I'm currently working as Cybersecurity Associate at Hypernet.</h4>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=htfzeki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph" />
+
+  <h1>Ien Hezekiah Monteser</h1>
+  
+  <h3>Cybersecurity Associate @ Hypernet</h3>
+
+  <p>
+    I focus on Network Security, Cloud Infrastructure, and Threat Detection. <br>
+    I have hands-on experience deploying and monitoring Firewalls, WAF, EDR, NDR, and XDR solutions.
+  </p>
+
+  <a href="https://www.linkedin.com/in/ihpmonteser/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <br/>
+
+  <h3>Tech Stack</h3>
+
+  <img src="https://img.shields.io/badge/Fortinet-red?style=flat-square&logo=fortinet&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Sangfor-04be02?style=flat-square" />
+  
+  <img src="https://img.shields.io/badge/Sophos-001A47?style=flat-square&logo=sophos&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Netskope-FF8200?style=flat-square" />
+  
+  <img src="https://img.shields.io/badge/pfSense-darkblue?style=flat-square&logo=pfsense&logoColor=white" />
   
   <br/>
-  <br/>
   
-  <a href="https://tryhackme.com/p/mkzhm">
-    <img src="https://raw.githubusercontent.com/htfzeki/htfzeki/main/assets/thm_propic.png" alt="TryHackMe Stats" height="150" />
-  </a>
+  <img src="https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+
+  <br/>
+
+  <h3>TryHackMe</h3>
+
+  <img src="https://tryhackme-badges.s3.amazonaws.com/mkzhm.png" alt="Your Image Badge" />
+  
+ <br/>
+  <img src="https://komarev.com/ghpvc/?username=htfzeki&label=Views&color=blue&style=flat-square" alt="Profile Views" />
+
 </div>
-
-###
-
-<h3 align="center">Technical Skills</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" height="40" alt="drupal logo" />
-</div>
-
-###
-
-<h3 align="center">Social Media</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ihpmonteser/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://tryhackme.com/p/mkzhm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo" />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="400" src="https://i.imgflip.com/963fty.jpg" />
-</div>
-
-###
