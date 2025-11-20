@@ -22,7 +22,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 <br/>
@@ -50,11 +50,32 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
+
+<br/>
+
+<div align="center">
+  <h3>Projects</h3>
+  <a href="https://github.com/htfzeki/TryHackMe-FreeRoomsWithTracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=htfzeki&repo=TryHackMe-FreeRoomsWithTracker&theme=tokyonight&border_radius=10" alt="TryHackMe Tracker Repo" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<br/>
+
 <div align="center">
   <h3>TryHackMe Progress</h3>
   <a href="https://tryhackme.com/p/mkzhm">
     <img src="https://tryhackme-badges.s3.amazonaws.com/mkzhm.png" alt="TryHackMe Badge" />
   </a>
+</div>
