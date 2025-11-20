@@ -1,10 +1,13 @@
 <h1>Ien Hezekiah Monteser</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Exploring+Network+%26+Cloud+Security;Mastering+Ethical+Hacking+%26+VAPT;Securing+Digital+Infrastructures;Future+Cybersecurity+Specialist&font=Shantell+Sans&size=22&center=true&vCenter=true&width=500&height=45&color=FF0000&pause=1000" alt="Typing SVG" />
+</div>
 <h3>Cybersecurity Associate @ Hypernet</h3>
 
 <p>
-  I focus on <b>Network Security</b>, <b>Cloud Infrastructure</b>, and <b>Threat Detection</b>.<br>
-  I have hands-on experience deploying and monitoring Firewalls, WAF, EDR, NDR, and XDR solutions.
+  I am actively expanding my skill set in the cybersecurity landscape, specifically focusing on securing <b>Network & Cloud Security</b> architectures. <br>
+  Simultaneously, I am diving deep into <b>Ethical Hacking</b> and <b>VAPT</b> (Vulnerability Assessment and Penetration Testing) to better understand how to identify vulnerabilities and secure systems against evolving threats.
 </p>
 
 <a href="https://www.linkedin.com/in/ihpmonteser/">
