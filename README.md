@@ -24,14 +24,12 @@
 <img src="https://img.shields.io/badge/Cynet-00A3E0?style=flat-square" />
 <img src="https://img.shields.io/badge/Netskope-FF8200?style=flat-square" />
 <img src="https://img.shields.io/badge/Sangfor-04be02?style=flat-square" />
-
 <br/>
 
 <b>Networking & Routing</b><br/>
 <img src="https://img.shields.io/badge/MikroTik-2F2F2F?style=flat-square&logo=mikrotik&logoColor=white" />
 <img src="https://img.shields.io/badge/PLANET-0098D4?style=flat-square" />
 <img src="https://img.shields.io/badge/pfSense-darkblue?style=flat-square&logo=pfsense&logoColor=white" />
-
 <br/>
 
 <b>Systems & Development</b><br/>
