@@ -41,7 +41,7 @@
 
 ---
 
-### 🏆 TryHackMe
+### TryHackMe
 
 <a href="https://tryhackme.com/p/mkzhm">
   <img src="https://tryhackme-badges.s3.amazonaws.com/mkzhm.png" alt="TryHackMe Badge" />
