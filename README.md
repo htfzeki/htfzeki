@@ -76,6 +76,6 @@
 <div align="center">
   <h3>TryHackMe Progress</h3>
   <a href="https://tryhackme.com/p/mkzhm">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/mkzhm.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/mkzhm.png" alt="Your Image Badge" />
   </a>
 </div>
