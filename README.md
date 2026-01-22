@@ -3,7 +3,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?lines=Exploring+Network+%26+Cloud+Security;Mastering+Ethical+Hacking+%26+VAPT;Securing+Digital+Infrastructures;Future+Cybersecurity+Specialist&font=Shantell+Sans&size=22&center=true&vCenter=true&width=500&height=45&color=FF0000&pause=1000" alt="Typing SVG" />
 
-  <h3>Cybersecurity Associate @ Hypernet</h3>
+  <h3>Cybersecurity</h3>
 
   <p>
     I am actively expanding my skill set in the cybersecurity landscape, specifically focusing on <br>
