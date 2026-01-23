@@ -18,13 +18,11 @@
   </a>
 </div>
 <br/>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/htfzeki/htfzeki/refs/heads/main/line.gif" width="100%">
 </div>
 <div align="center">
   <h3>Technical Skills</h3>
-
   <b>SOC, Detection & Response</b><br/>
   <img src="https://img.shields.io/badge/SIEM-0052CC?style=flat-square" />
   <img src="https://img.shields.io/badge/EDR%20%2F%20XDR-1E90FF?style=flat-square" />
@@ -43,7 +41,7 @@
   <img src="https://img.shields.io/badge/Python-1E90FF?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Log%20Analysis-4682B4?style=flat-square" />
 </div>
-
+<br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/htfzeki/htfzeki/refs/heads/main/line.gif" width="100%">
 </div>
