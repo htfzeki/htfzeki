@@ -23,7 +23,7 @@
 </div>
 <div align="center">
   <h3>Technical Skills</h3>
-  <b>SOC, Detection & Response</b><br/>
+  <b>Security Tools</b><br/>
   <img src="https://img.shields.io/badge/SIEM-0052CC?style=flat-square" />
   <img src="https://img.shields.io/badge/EDR%20%2F%20XDR-1E90FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Cynet-00A3E0?style=flat-square" />
